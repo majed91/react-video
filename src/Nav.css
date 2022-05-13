@@ -1,0 +1,18 @@
+.img1{
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
+.a1{
+    color: antiquewhite;
+    border-right: 1px solid palegreen;
+    padding-right: 5px;
+    margin-right: 10px;
+}
+a{
+    color: antiquewhite;
+    font-size: 14px;
+}
+.nav-item{
+    float: left;
+}

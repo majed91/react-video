@@ -1,0 +1,30 @@
+#page{
+    width: 80%;
+    float: left;
+    margin-top: 60px;
+}
+.pagination{
+    float: right;
+    margin-right: 290px;
+}
+.page-item{
+    margin: 10px;
+    font-size: 18px;
+   
+}
+.page-link{
+    color: white;
+    background-color: black;
+    border-radius: 4px;
+    box-shadow: 1px 1px 1px 1px rgb(187, 187, 207);
+}
+video{
+    width: 150px;
+    height: 200px;
+}
+#films{
+    margin-top: 80px;
+}
+.row{
+    margin-top: 15px;
+}

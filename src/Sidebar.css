@@ -1,0 +1,26 @@
+#side{
+    width: 16%;
+    background-color: black;
+    float: left;
+}
+.list-group{
+  position: fixed;
+  list-style-type: none;
+  padding: 0%;
+  margin: 0%;
+  left: 0%;
+}
+.list-group-item{
+    background-color: black;
+    color: blanchedalmond;
+    padding: 14px;
+}
+.list-group-item:hover{
+    background-color: rgb(26, 23, 23);
+}
+svg{
+    margin-right: 10px;
+}
+svg{
+    float: right;
+}
